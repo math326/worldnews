@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_red">#E53935</color>
+    <color name="accent_red_dark">#C62828</color>
+    <color name="background_dark">#1A1A1A</color>
+    <color name="card_background">#2A2A2A</color>
+    <color name="colorAccent">#E53935</color>
+    <color name="colorPrimary">#1A1A1A</color>
+    <color name="colorPrimaryDark">#1A1A1A</color>
+    <color name="image_placeholder">#333333</color>
+    <color name="status_bar">#1A1A1A</color>
+    <color name="surface_dark">#242424</color>
+    <color name="text_hint">#666666</color>
+    <color name="text_primary">#F0F0F0</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <string name="app_name">WorldNews</string>
+    <string name="error_no_connection">Sem conexão. Puxe para atualizar.</string>
+    <string name="loading">Carregando...</string>
+    <string name="offline_mode">Modo offline — notícias salvas</string>
+    <string name="tab_economy">Economia</string>
+    <string name="tab_live">Ao Vivo</string>
+    <string name="tab_politics">Política</string>
+    <string name="tab_tech">Tecnologia</string>
+    <string name="tab_world">Mundo</string>
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Theme.WorldNews" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="android:navigationBarColor">@color/surface_dark</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.WorldNews.Splash" parent="Theme.WorldNews">
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

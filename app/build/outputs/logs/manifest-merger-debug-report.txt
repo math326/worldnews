@@ -1,0 +1,387 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.databinding:viewbinding:8.8.0] /home/matheus/.gradle/caches/8.11.1/transforms/fc178853bcc424f484a50379ff800a78/transformed/jetified-viewbinding-8.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /home/matheus/.gradle/caches/8.11.1/transforms/bd519e4af8dd82485da1134baf9b9b28/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/matheus/.gradle/caches/8.11.1/transforms/38bc61fbfbb5897c2da9f087498407a4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/264d6c6c5bc1e70da84042cff4651b7d/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/5ef3b2e260af3f20742b558c04d12ca7/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/matheus/.gradle/caches/8.11.1/transforms/f6c4af3c4d5d731bba78e084513962c6/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/matheus/.gradle/caches/8.11.1/transforms/441936e393088d5321b7177e7b8fd277/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/70c60b85c826a5d62e968b9ef65fd480/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/9f9202ea1ca3d49e12f9e6da67386748/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/matheus/.gradle/caches/8.11.1/transforms/fd2f23e9ba768d34c175950856e7d96a/transformed/jetified-glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/matheus/.gradle/caches/8.11.1/transforms/5b7aa9d26e9a57a4a72e912b7b0357a0/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3fe8399b548c26d98508a1a414b338f1/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/matheus/.gradle/caches/8.11.1/transforms/8bc65200b36b67f263173207a8515a38/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/f72decfc0219a4ee817d8597e0005bd3/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] /home/matheus/.gradle/caches/8.11.1/transforms/43457e88b5447c4309cb92db9490458e/transformed/fragment-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/baca7e51da78ab0fa1e8f59bc27c5d48/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.activity:activity:1.8.0] /home/matheus/.gradle/caches/8.11.1/transforms/f4e28b176faab014ed63a3da031e28aa/transformed/jetified-activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/e1c8a6ee5d61ae48276c97bcdb5559b1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3e118709b6bf56f3ac7cbe270d078246/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/6f5be7f2501dbb92c526a2605b685611/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/601498837f1a07280b240bc4b959d8c1/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/9ffac96e1f4a4ae74a80151c967f59aa/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/56b88ae6d5137b450aa39487eee19486/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/ff2be5791748d725b46febdd6e10511f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/51bb07a6e0292384b167191de957b8aa/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/139edebc22449ba1e397d1b97214c670/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/29c4f2220b141b4cb059b38f834426c9/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/matheus/.gradle/caches/8.11.1/transforms/db56c17500ead2e686bfdb04ca5a6ca1/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/ce1365c19cd7ae67d786c7187ddd1864/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/82e9be3465499476b9bb0d9e10b693b6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/b778575444b3ef461b043c7185153b9d/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/53f976d1c2a22d1fc0f737fb6328a686/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/478bb4e092010da6b29b9563e5575aee/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/2fdb43bfe4b440ec1accb493f14bbb54/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/441338f375383937acb54243dc7696c4/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/63fa7be842a3aff5010553a32e89a5e8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/55354dd7c62998dc00bc6c7a876dc0ba/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /home/matheus/.gradle/caches/8.11.1/transforms/3a29a941e14e8313115cc056f0ab2e15/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/matheus/.gradle/caches/8.11.1/transforms/1bfe0e32daad58e4a557411b481ad7c2/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/ee752217e83f3af3f9a55fa10275800f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/c1f13ac3d6762d6db46ec8126f36482f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/3d2de37c29bc4d60713dd8d1cefc4585/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /home/matheus/.gradle/caches/8.11.1/transforms/f56da7d0180d29f773d3c77137a1333a/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /home/matheus/.gradle/caches/8.11.1/transforms/7c77b8e637f8688436f6920a40cd30cf/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/9b6cbf8123ffc09e2e9a5a59bb06888d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/19b9c5e32f9dffc2c50271d3f17e29f0/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/9ef22eb93fa8d45c6205a5303f23750b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/c814f012ceb7de4fd8adedd9a947abd0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/ac3dd025b448e2b88d04f965077ddf87/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:9:5-33:19
+INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:9:5-33:19
+MERGED from [com.google.android.material:material:1.11.0] /home/matheus/.gradle/caches/8.11.1/transforms/bd519e4af8dd82485da1134baf9b9b28/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /home/matheus/.gradle/caches/8.11.1/transforms/bd519e4af8dd82485da1134baf9b9b28/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/matheus/.gradle/caches/8.11.1/transforms/38bc61fbfbb5897c2da9f087498407a4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/matheus/.gradle/caches/8.11.1/transforms/38bc61fbfbb5897c2da9f087498407a4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/matheus/.gradle/caches/8.11.1/transforms/5b7aa9d26e9a57a4a72e912b7b0357a0/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/matheus/.gradle/caches/8.11.1/transforms/5b7aa9d26e9a57a4a72e912b7b0357a0/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3fe8399b548c26d98508a1a414b338f1/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3fe8399b548c26d98508a1a414b338f1/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/matheus/.gradle/caches/8.11.1/transforms/8bc65200b36b67f263173207a8515a38/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/matheus/.gradle/caches/8.11.1/transforms/8bc65200b36b67f263173207a8515a38/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/f72decfc0219a4ee817d8597e0005bd3/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/f72decfc0219a4ee817d8597e0005bd3/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/ee752217e83f3af3f9a55fa10275800f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/ee752217e83f3af3f9a55fa10275800f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/9b6cbf8123ffc09e2e9a5a59bb06888d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/9b6cbf8123ffc09e2e9a5a59bb06888d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:15:9-47
+	android:networkSecurityConfig
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:16:9-69
+activity#com.worldnews.app.SplashActivity
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:exported
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:21:13-58
+	android:name
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:19:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.worldnews.app.MainActivity
+ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:28:9-31:58
+	android:windowSoftInputMode
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:31:13-55
+	android:exported
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml:29:13-41
+uses-sdk
+INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml
+INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.8.0] /home/matheus/.gradle/caches/8.11.1/transforms/fc178853bcc424f484a50379ff800a78/transformed/jetified-viewbinding-8.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.8.0] /home/matheus/.gradle/caches/8.11.1/transforms/fc178853bcc424f484a50379ff800a78/transformed/jetified-viewbinding-8.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/matheus/.gradle/caches/8.11.1/transforms/bd519e4af8dd82485da1134baf9b9b28/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/matheus/.gradle/caches/8.11.1/transforms/bd519e4af8dd82485da1134baf9b9b28/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/matheus/.gradle/caches/8.11.1/transforms/38bc61fbfbb5897c2da9f087498407a4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/matheus/.gradle/caches/8.11.1/transforms/38bc61fbfbb5897c2da9f087498407a4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/264d6c6c5bc1e70da84042cff4651b7d/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/264d6c6c5bc1e70da84042cff4651b7d/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/5ef3b2e260af3f20742b558c04d12ca7/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/5ef3b2e260af3f20742b558c04d12ca7/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/matheus/.gradle/caches/8.11.1/transforms/f6c4af3c4d5d731bba78e084513962c6/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/matheus/.gradle/caches/8.11.1/transforms/f6c4af3c4d5d731bba78e084513962c6/transformed/jetified-viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/matheus/.gradle/caches/8.11.1/transforms/441936e393088d5321b7177e7b8fd277/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/matheus/.gradle/caches/8.11.1/transforms/441936e393088d5321b7177e7b8fd277/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/70c60b85c826a5d62e968b9ef65fd480/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/70c60b85c826a5d62e968b9ef65fd480/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/9f9202ea1ca3d49e12f9e6da67386748/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/9f9202ea1ca3d49e12f9e6da67386748/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/matheus/.gradle/caches/8.11.1/transforms/fd2f23e9ba768d34c175950856e7d96a/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /home/matheus/.gradle/caches/8.11.1/transforms/fd2f23e9ba768d34c175950856e7d96a/transformed/jetified-glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/matheus/.gradle/caches/8.11.1/transforms/5b7aa9d26e9a57a4a72e912b7b0357a0/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] /home/matheus/.gradle/caches/8.11.1/transforms/5b7aa9d26e9a57a4a72e912b7b0357a0/transformed/jetified-play-services-location-21.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3fe8399b548c26d98508a1a414b338f1/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3fe8399b548c26d98508a1a414b338f1/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/matheus/.gradle/caches/8.11.1/transforms/8bc65200b36b67f263173207a8515a38/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/matheus/.gradle/caches/8.11.1/transforms/8bc65200b36b67f263173207a8515a38/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/f72decfc0219a4ee817d8597e0005bd3/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/f72decfc0219a4ee817d8597e0005bd3/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] /home/matheus/.gradle/caches/8.11.1/transforms/43457e88b5447c4309cb92db9490458e/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] /home/matheus/.gradle/caches/8.11.1/transforms/43457e88b5447c4309cb92db9490458e/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/baca7e51da78ab0fa1e8f59bc27c5d48/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/baca7e51da78ab0fa1e8f59bc27c5d48/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/matheus/.gradle/caches/8.11.1/transforms/f4e28b176faab014ed63a3da031e28aa/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/matheus/.gradle/caches/8.11.1/transforms/f4e28b176faab014ed63a3da031e28aa/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/e1c8a6ee5d61ae48276c97bcdb5559b1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/e1c8a6ee5d61ae48276c97bcdb5559b1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3e118709b6bf56f3ac7cbe270d078246/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3e118709b6bf56f3ac7cbe270d078246/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/6f5be7f2501dbb92c526a2605b685611/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/6f5be7f2501dbb92c526a2605b685611/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/601498837f1a07280b240bc4b959d8c1/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/601498837f1a07280b240bc4b959d8c1/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/9ffac96e1f4a4ae74a80151c967f59aa/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/9ffac96e1f4a4ae74a80151c967f59aa/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/56b88ae6d5137b450aa39487eee19486/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/56b88ae6d5137b450aa39487eee19486/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/ff2be5791748d725b46febdd6e10511f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/ff2be5791748d725b46febdd6e10511f/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/51bb07a6e0292384b167191de957b8aa/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/51bb07a6e0292384b167191de957b8aa/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/139edebc22449ba1e397d1b97214c670/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/139edebc22449ba1e397d1b97214c670/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/29c4f2220b141b4cb059b38f834426c9/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/29c4f2220b141b4cb059b38f834426c9/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/matheus/.gradle/caches/8.11.1/transforms/db56c17500ead2e686bfdb04ca5a6ca1/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/matheus/.gradle/caches/8.11.1/transforms/db56c17500ead2e686bfdb04ca5a6ca1/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/ce1365c19cd7ae67d786c7187ddd1864/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/ce1365c19cd7ae67d786c7187ddd1864/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/82e9be3465499476b9bb0d9e10b693b6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/82e9be3465499476b9bb0d9e10b693b6/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/b778575444b3ef461b043c7185153b9d/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/b778575444b3ef461b043c7185153b9d/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/53f976d1c2a22d1fc0f737fb6328a686/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/53f976d1c2a22d1fc0f737fb6328a686/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/478bb4e092010da6b29b9563e5575aee/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/478bb4e092010da6b29b9563e5575aee/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/2fdb43bfe4b440ec1accb493f14bbb54/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/2fdb43bfe4b440ec1accb493f14bbb54/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/441338f375383937acb54243dc7696c4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/441338f375383937acb54243dc7696c4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/63fa7be842a3aff5010553a32e89a5e8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/63fa7be842a3aff5010553a32e89a5e8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/55354dd7c62998dc00bc6c7a876dc0ba/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/55354dd7c62998dc00bc6c7a876dc0ba/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /home/matheus/.gradle/caches/8.11.1/transforms/3a29a941e14e8313115cc056f0ab2e15/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /home/matheus/.gradle/caches/8.11.1/transforms/3a29a941e14e8313115cc056f0ab2e15/transformed/jetified-gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/matheus/.gradle/caches/8.11.1/transforms/1bfe0e32daad58e4a557411b481ad7c2/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/matheus/.gradle/caches/8.11.1/transforms/1bfe0e32daad58e4a557411b481ad7c2/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/ee752217e83f3af3f9a55fa10275800f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/ee752217e83f3af3f9a55fa10275800f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/c1f13ac3d6762d6db46ec8126f36482f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/c1f13ac3d6762d6db46ec8126f36482f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/3d2de37c29bc4d60713dd8d1cefc4585/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/3d2de37c29bc4d60713dd8d1cefc4585/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /home/matheus/.gradle/caches/8.11.1/transforms/f56da7d0180d29f773d3c77137a1333a/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /home/matheus/.gradle/caches/8.11.1/transforms/f56da7d0180d29f773d3c77137a1333a/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /home/matheus/.gradle/caches/8.11.1/transforms/7c77b8e637f8688436f6920a40cd30cf/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /home/matheus/.gradle/caches/8.11.1/transforms/7c77b8e637f8688436f6920a40cd30cf/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/9b6cbf8123ffc09e2e9a5a59bb06888d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/9b6cbf8123ffc09e2e9a5a59bb06888d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/19b9c5e32f9dffc2c50271d3f17e29f0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/19b9c5e32f9dffc2c50271d3f17e29f0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/9ef22eb93fa8d45c6205a5303f23750b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/9ef22eb93fa8d45c6205a5303f23750b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/c814f012ceb7de4fd8adedd9a947abd0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/matheus/.gradle/caches/8.11.1/transforms/c814f012ceb7de4fd8adedd9a947abd0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/ac3dd025b448e2b88d04f965077ddf87/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/ac3dd025b448e2b88d04f965077ddf87/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/matheus/WorldNews/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/bee149aac0bdfe66c1e120f4ccb1c6ad/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3fe8399b548c26d98508a1a414b338f1/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3fe8399b548c26d98508a1a414b338f1/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3fe8399b548c26d98508a1a414b338f1/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/3fe8399b548c26d98508a1a414b338f1/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/f72decfc0219a4ee817d8597e0005bd3/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/f72decfc0219a4ee817d8597e0005bd3/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/matheus/.gradle/caches/8.11.1/transforms/f72decfc0219a4ee817d8597e0005bd3/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/ee752217e83f3af3f9a55fa10275800f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/matheus/.gradle/caches/8.11.1/transforms/ee752217e83f3af3f9a55fa10275800f/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4915c81f45a4b6a2db79af8868027e4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/matheus/.gradle/caches/8.11.1/transforms/9bf171719eaaa9f63995075fa5a5baed/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.worldnews.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.worldnews.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/matheus/.gradle/caches/8.11.1/transforms/a4618c234af9ed07a02e7780eff61703/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/matheus/.gradle/caches/8.11.1/transforms/2539857d47bd9c090cc2d07ae9e511bf/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

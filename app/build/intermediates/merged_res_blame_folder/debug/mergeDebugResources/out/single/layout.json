@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.worldnews.app-mergeDebugResources-38:/layout/activity_splash.xml",
+        "source": "com.worldnews.app-main-41:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.worldnews.app-mergeDebugResources-38:/layout/fragment_news.xml",
+        "source": "com.worldnews.app-main-41:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "com.worldnews.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.worldnews.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.worldnews.app-mergeDebugResources-38:/layout/fragment_local_news.xml",
+        "source": "com.worldnews.app-main-41:/layout/fragment_local_news.xml"
+    },
+    {
+        "merged": "com.worldnews.app-mergeDebugResources-38:/layout/fragment_realtime.xml",
+        "source": "com.worldnews.app-main-41:/layout/fragment_realtime.xml"
+    },
+    {
+        "merged": "com.worldnews.app-mergeDebugResources-38:/layout/item_news.xml",
+        "source": "com.worldnews.app-main-41:/layout/item_news.xml"
+    },
+    {
+        "merged": "com.worldnews.app-mergeDebugResources-38:/layout/item_realtime.xml",
+        "source": "com.worldnews.app-main-41:/layout/item_realtime.xml"
+    }
+]
