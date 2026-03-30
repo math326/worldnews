@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fundos -->
+    <color name="background_dark">#1A1A1A</color>
+    <color name="surface_dark">#242424</color>
+    <color name="card_background">#2A2A2A</color>
+    <color name="image_placeholder">#333333</color>
+
+    <!-- Textos -->
+    <color name="text_primary">#F0F0F0</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="text_hint">#666666</color>
+
+    <!-- Destaque -->
+    <color name="accent_red">#E53935</color>
+    <color name="accent_red_dark">#C62828</color>
+
+    <!-- Status bar -->
+    <color name="status_bar">#1A1A1A</color>
+
+    <!-- Primárias (necessárias pelo Material theme) -->
+    <color name="colorPrimary">#1A1A1A</color>
+    <color name="colorPrimaryDark">#1A1A1A</color>
+    <color name="colorAccent">#E53935</color>
+</resources>

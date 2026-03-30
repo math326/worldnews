@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorldNews</string>
+    <string name="tab_world">Mundo</string>
+    <string name="tab_live">Ao Vivo</string>
+    <string name="tab_politics">Política</string>
+    <string name="tab_tech">Tecnologia</string>
+    <string name="tab_economy">Economia</string>
+    <string name="error_no_connection">Sem conexão. Puxe para atualizar.</string>
+    <string name="loading">Carregando...</string>
+    <string name="offline_mode">Modo offline — notícias salvas</string>
+</resources>
